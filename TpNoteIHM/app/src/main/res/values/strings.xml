@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">TpNoteIHM</string>
+    <string name="display_all">display all</string>
+    <string name="one_piece">one piece</string>
 </resources>
